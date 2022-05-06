@@ -1,5 +1,7 @@
-![Path's HI](https://media0.giphy.com/media/VGeLGGaipLzhld3C32/giphy.gif) ### Hello There👋 I am Abdulmajeed glad to see you here 🙂                     
-
+<div align="center">
+    <h1>Hello There👋 I am Abdulmajeed glad to see you here 🙂</h1>                     
+    <img src="https://media0.giphy.com/media/VGeLGGaipLzhld3C32/giphy.gif" alt="Path Hi gif"/>
+</div>
 
 <!--
 **Abdulmajeed98/Abdulmajeed98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
