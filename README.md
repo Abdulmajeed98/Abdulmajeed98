@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There👋 I am Abdulmajeed glad to see you here 🙂  ![Path's HI](https://media0.giphy.com/media/VGeLGGaipLzhld3C32/giphy.gif)
 
 <!--
 **Abdulmajeed98/Abdulmajeed98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
