@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>Hello There👋 I am Abdulmajeed glad to see you here 🙂</h1>                     
-    <img src="https://media0.giphy.com/media/VGeLGGaipLzhld3C32/giphy.gif" alt="Path Hi gif"/>
+    <h1>Hello There👋 I am Abdulmajeed glad to see you here 🙂 <img src="https://media0.giphy.com/media/VGeLGGaipLzhld3C32/giphy.gif" alt="Path Hi gif"/></h1>                     
+    
 </div>
 
 <!--
