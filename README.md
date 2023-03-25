@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Abdulmajeed's GitHub stats](https://github-readme-stats.vercel.app/api?  username=Abdulmajeed98&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight)
+
+![Abdulmajeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulmajeed98&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight)
