@@ -1,4 +1,4 @@
-<h1 align="center">Hello There👋 I am Abdulmajeed glad to see you here 🙂
+<h1 align="left">Hello There👋 I am Abdulmajeed glad to see you here 🙂
     <img src="./assets/interest-banner.gif" alt="interests"/>
     <img src="./assets/path-hi.gif" alt="Path Hi gif"/>
 </h1>     
@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-    ![Abdulmajeed's GitHub stats](https://github-readme-stats.vercel.app/api?  username=Abdulmajeed98&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight)
-</div>
+![Abdulmajeed's GitHub stats](https://github-readme-stats.vercel.app/api?  username=Abdulmajeed98&count_private=true&include_all_commits=true&hide=stars&theme=tokyonight)
