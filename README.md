@@ -1,7 +1,9 @@
 ###
 
 <h1 align="center">Hello There👋 I am Abdulmajeed glad to see you here 🙂</h1>
+
 <div align="center">
+  <img src="./assets/interest-banner.gif" alt="interests"/>
   <img height="auto" width="100%" src="./assets/path-hi.gif"  />
 </div>
 
